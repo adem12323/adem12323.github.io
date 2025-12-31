@@ -58,3 +58,10 @@ a:hover {
   text-decoration: underline;
 }
 Add basic styling
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 15px 0;
+  border: 3px solid #e5e7eb;
